@@ -33,4 +33,4 @@ This is a Spring Boot REST API project developed to manage an online course plat
 - Backend REST API
 
 ## Author
-Student Project
+@Victor
